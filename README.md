@@ -1,4 +1,13 @@
 # Python-basics
+
+
+
+EXPLORING DATA:I TOOK THE DATA FROM THE FOLLOWING LINK
+https://www.kaggle.com/phiitm/andhra-pradesh-health-data
+
+
+
+
 # **Questions**
 
 
